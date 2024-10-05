@@ -1,10 +1,7 @@
 ---
-layout: base
+layout: page
 title: Drafting
 ---
-[Return to homepage](/)
-
-# Drafting
 The technical quality of legislation in India is far from satisfactory.
 
 Legislative drafting, like contract drafting or software engineering, is fundamentally a problem of constructing the correct [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)).

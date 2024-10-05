@@ -2,9 +2,6 @@
 layout: base
 title: Nihal Sahu
 ---
-
-# Nihal Sahu 
-
 [Email](mailto:nihal.sahu@vidhilegalpolicy.in) [Twitter](https://x.com/annihalated) [Newsletter](https://nihalsahu.substack.com)
 
 I'm a Research Fellow at the [Vidhi Centre for Legal Policy](https://vidhilegalpolicy.in) in the Health Team. I work on making healthcare regulation more effective and reforming the legal framework for organ transplants.
@@ -31,11 +28,11 @@ You can read our research [here](https://vidhilegalpolicy.in/topics/health/?cust
 
 ## Repositories
 
-*   [annihalated/wonk](https://github.com/annihalated/wonk)
-*   [annihalated/dotfiles](https://github.com/annihalated/dotfiles)
-*   [annihalated/indiabill](https://github.com/annihalated/indiabill)
-*   [annihalated/gcm](https://github.com/annihalated/gcm)
+*   [A nostaglic Hugo theme](https://github.com/annihalated/wonk)
+*   [Dotfiles](https://github.com/annihalated/dotfiles)
+*   [LaTeX theme for Indian draft bills](https://github.com/annihalated/indiabill)
+*   [A toy VCS](https://github.com/annihalated/gcm)
 
-## Guidelines
+## Notes
 
 *   [Drafting](/drafting)
