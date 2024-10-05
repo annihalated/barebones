@@ -32,6 +32,6 @@ It is wrong for section 3(1) to say that a donor _may_ authorise the removal of 
 * [Process design in drafting laws (The Leap Blog, 27 June 2014)](https://blog.theleapjournal.org/2014/06/process-design-for-drafting-laws.html)
 * [Drafting hall of shame: a mistake in the Reserve Bank of India Act, 1934 (The Leap Blog, 30 March 2017)](https://blog.theleapjournal.org/2017/03/drafting-hall-of-shame-mistake-in.html)
 * [Drafting hall of shame #2: mistakes in the IBC (The Leap Blog, 18 November 2016)](https://blog.theleapjournal.org/2016/11/drafting-hall-of-shame-2-mistakes-in.html)
-* [The democratic deficit in regulation making](https://www.mayin.org/ajayshah/MEDIA/2018/democratic_deficit.html)
+* [The democratic deficit in regulation making (Business Standard, 19 November 2018)](https://www.mayin.org/ajayshah/MEDIA/2018/democratic_deficit.html)
   
 _This page is a work in progress._
