@@ -30,7 +30,8 @@ You can read our research [here](https://vidhilegalpolicy.in/topics/health/?cust
 
 *   [A nostaglic Hugo theme](https://github.com/annihalated/wonk)
 *   [Dotfiles](https://github.com/annihalated/dotfiles)
-*   [LaTeX theme for Indian draft bills](https://github.com/annihalated/indiabill)
+*   [LaTeX template for Indian draft bills](https://github.com/annihalated/indiabill)
+*   [LaTeX starter files](https://github.com/annihalated/latex-starter)
 *   [A toy VCS](https://github.com/annihalated/gcm)
 
 ## Notes

@@ -22,7 +22,7 @@ It is wrong for section 3(1) to say that a donor _may_ authorise the removal of 
 ## Guidance documents
 * [Manual on Plain Language Drafting (Vidhi, March 2017)](https://vidhilegalpolicy.in/research/manual-on-plain-language-drafting/)
 * [SARAL Manual (Vidhi, March 2023)](https://vidhilegalpolicy.in/wp-content/uploads/2023/03/230301_The-SARAL-Manual_v3.pdf)
-* [Common Legislative Solutions (UK Cabinet Office, May 2022)](https://assets.publishing.service.gov.uk/media/6290aa818fa8f5039107d51f/CLS_Guidance_12_May_2022.pdf)
+* [Common Legislative Solutions (UK Cabinet Office, May 2022)](https://www.gov.uk/government/publications/common-legislative-solutions-a-guide-to-tackling-recurring-policy-issues-in-legislation/common-legislative-solutions-a-guide-to-tackling-recurring-policy-issues-in-legislation)
 
 ## Further reading
 * [Drafting better laws (The Leap Blog, 13 October 2015)](https://blog.theleapjournal.org/2015/10/drafting-better-laws.html)
