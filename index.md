@@ -28,7 +28,7 @@ You can read our research [here](https://vidhilegalpolicy.in/topics/health/?cust
 
 ## Repositories
 
-* [A nostaglic Hugo theme](https://github.com/annihalated/wonk)
+* [A nostalgic Hugo theme](https://github.com/annihalated/wonk)
 * [Dotfiles](https://github.com/annihalated/dotfiles)
 * [LaTeX template for Indian draft bills](https://github.com/annihalated/indiabill)
 * [LaTeX starter files](https://github.com/annihalated/latex-starter)
