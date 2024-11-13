@@ -6,11 +6,13 @@ The technical quality of legislation in India is far from satisfactory.
 
 Legislative drafting, like contract drafting or software engineering, is fundamentally a problem of constructing the correct [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)).
 
-Most of the advice in this document relates:
-
 When you find the correct ontology, things fall into place. When you have the wrong ontology, you will find yourself constantly creating more complex procedures. A feature of bad abstractions is that they are harder to reason with.
 
-- Ordinarily, a drafter should not start typing the text of the statute immediately. You need an initial specification, either in the form of a detailed outline or drafting instructions. Think of writing a piece of legislation like writing software. You write a detailed specification first (either in the form of tests or a formal design document or pseudocode) and only then write code.
+Almost always, a drafter should not start typing the text of the statute immediately. You need an initial specification, either in the form of a detailed outline or drafting instructions. Think of writing a piece of legislation like writing software. You write a detailed specification first (either in the form of tests or a formal design document or pseudocode) and only then write code.
+
+The specification should contain: 
+- the scope of the legislation
+- the most important defined terms ("the objects")
 
 ## Guidance documents
 * [Manual on Plain Language Drafting (Vidhi, March 2017)](https://vidhilegalpolicy.in/research/manual-on-plain-language-drafting/)
