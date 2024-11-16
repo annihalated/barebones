@@ -8,11 +8,10 @@ Legislative drafting, like contract drafting or software engineering, is fundame
 
 When you find the correct ontology, things fall into place. When you have the wrong ontology, you will find yourself constantly creating more complex procedures. A feature of bad abstractions is that they are harder to reason with.
 
-Almost always, a drafter should not start typing the text of the statute immediately. You need an initial specification, either in the form of a detailed outline or drafting instructions. Think of writing a piece of legislation like writing software. You write a detailed specification first (either in the form of tests or a formal design document or pseudocode) and only then write code.
+Almost always, a drafter should not start typing the text of the statute immediately. When writing software, you write a detailed specification first (either in the form of tests or a formal design document or pseudocode) and only then write code. Similarly, you need an initial specification, either in the form of a detailed outline or drafting instructions. 
 
-The specification should contain: 
-- the scope of the legislation
-- the most important defined terms ("the objects")
+## Writing a specification
+Sometimes you will be provided with drafting instructions. At other times, it is your role to develop them yourself.  
 
 ## Guidance documents
 * [Manual on Plain Language Drafting (Vidhi, March 2017)](https://vidhilegalpolicy.in/research/manual-on-plain-language-drafting/)
