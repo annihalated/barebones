@@ -53,16 +53,12 @@ a, a:visited {
 }
 
 /* Quotes */
-
 blockquote {
-  margin: 20px 0;
-  padding: 15px;
-  background-color: #f8f8f8;
-  font-size: 0.9em;
-}
-
-blockquote p {
-  margin: 0;
+  margin-right: 2em;
+  margin-left: .6em;
+  border-left: 2px solid #ccc;
+  padding-left: .8em;
+  font-size: .9em;
 }
 
 /* Code blocks */
