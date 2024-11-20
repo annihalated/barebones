@@ -10,6 +10,8 @@ When you find the correct ontology, things fall into place. When you have the wr
 
 Almost always, a drafter should not start typing the text of the statute immediately. When writing software, you write a detailed specification first (either in the form of tests or a formal design document or pseudocode) and only then write code. Similarly, you need an initial specification, either in the form of a detailed outline or drafting instructions. 
 
+<hr/>
+
 ## Writing a specification
 Sometimes you will be provided with drafting instructions. At other times, it is your role to develop them yourself.  
 
