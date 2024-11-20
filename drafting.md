@@ -6,14 +6,20 @@ The technical quality of legislation in India is far from satisfactory.
 
 Legislative drafting, like contract drafting or software engineering, is fundamentally a problem of constructing the correct [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)).
 
-When you find the correct ontology, things fall into place. When you have the wrong ontology, you will find yourself constantly creating more complex procedures. A feature of bad abstractions is that they are harder to reason with.
+When you find the correct abstractions, things fall into place. When you have the wrong abstractions, you will find yourself constantly creating more complex procedures. A feature of bad abstractions is that they are harder to reason with. Good abstractions undergird legal systems:
 
-Almost always, a drafter should not start typing the text of the statute immediately. When writing software, you write a detailed specification first (either in the form of tests or a formal design document or pseudocode) and only then write code. Similarly, you need an initial specification, either in the form of a detailed outline or drafting instructions. 
+> One way we check for the existence of a modern, working legal system is by asking whether its abstractions have been successful.
+>
+> I mean “abstraction” in a precise sense, i.e., ‘the quality of dealing with ideas rather than events.’ It is by abstracting that we create general rules from specific disputes. It is by reasoning about those abstractions that we try to maintain consistency when comparable situations arise. Without those abstractions, you are just following your intuitions. 
+>
+> Surely, the abstractions and our reasoning about them is driven fundamentally by intuition. But the fact that they are intuitions about the abstractions, as opposed to an intutition about "who should win",  introduces some rigour to the legal system.
+>
+> When your abstractions are successful, that means that your judges are reasoning about the abstractions, not principally about the case before them. When they fail, courts (where professional judges apply laws) devolve into durbars (where the sovereign dispenses justice).
 
-<hr/>
+As a drafter, your task is to find the correct abstractions, construct the correct ontology, and then execute on the mundane and rigorous work of converting that ontology into a text.
 
 ## Writing a specification
-Sometimes you will be provided with drafting instructions. At other times, it is your role to develop them yourself.  
+Programmers and drafters alike must resist the tendency to start typing immediately. Write a detailed specification first.  
 
 ## Guidance documents
 * [Manual on Plain Language Drafting (Vidhi, March 2017)](https://vidhilegalpolicy.in/research/manual-on-plain-language-drafting/)
