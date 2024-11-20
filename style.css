@@ -1,12 +1,19 @@
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
+  font-family: Georgia, system-ui, -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
   max-width: 480px;
   min-width: 0;
   margin: 0 auto;
+  font-size: 18px;
   margin-top: 1rem;
   padding: 0.9em;
   line-height: 1.25;
   padding-bottom: 50px;
+}
+
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 15px;
+  }
 }
 
 h1 {
