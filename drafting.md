@@ -2,8 +2,6 @@
 layout: page
 title: Drafting
 ---
-The technical quality of legislation in India is far from satisfactory.
-
 Legislative drafting, like contract drafting or software engineering, is fundamentally a problem of constructing the correct [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)).
 
 When you find the correct abstractions, things fall into place. When you have the wrong abstractions, you will find yourself constantly creating more complex procedures. A feature of bad abstractions is that they are harder to reason with. Good abstractions undergird legal systems:
