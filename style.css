@@ -36,6 +36,9 @@ h2 {
 
 h1, h2 {
   font-family: Epilogue, Helvetica, system-ui, -apple-system;
+}
+
+#home h1, #home h2 {
   text-transform: uppercase;
 }
 
