@@ -2,7 +2,7 @@
 layout: base
 title: Nihal Sahu
 ---
-[Email](mailto:nihal.sahu@vidhilegalpolicy.in) [Twitter](https://x.com/annihalated) [Newsletter](https://nihalsahu.substack.com) [Colophon](/colophon)
+[Email](mailto:nihal.sahu@vidhilegalpolicy.in) [Twitter](https://x.com/annihalated) [Newsletter](https://nihalsahu.substack.com) 
 
 I'm a Research Fellow at the [Vidhi Centre for Legal Policy](https://vidhilegalpolicy.in). I work on making the legal system more effective. I'm particularly interested in the design of high-performance organisations.
 
