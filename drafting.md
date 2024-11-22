@@ -18,8 +18,11 @@ When you find the correct abstractions, things fall into place. When you have th
 
 As a drafter, your task is to find the correct abstractions, construct the correct ontology, and then execute on the mundane and rigorous work of converting that ontology into a text.
 
-## Writing a specification
-Programmers and drafters alike must resist the tendency to start typing immediately. Write a detailed specification first.  
+## Examples of good drafting
+* The [Draft Indian Financial Code](https://dea.gov.in/sites/default/files/Revised_Draft_IFC.pdf) is exceptional. More detail and context can be found in the [FSLRC Report](https://dea.gov.in/sites/default/files/fslrc_report_vol1_1.pdf). 
+
+* The UK's [Mental Capacity Act 2005](https://www.legislation.gov.uk/ukpga/2005/9) is an example of good, clear drafting. You don't have to take just my word for it. In [*PC and NC v City of York Council*](https://www.bailii.org/ew/cases/EWCA/Civ/2013/478.html), McFarlane LJ said:
+> 37\. The central provisions of the MCA 2005 have been widely welcomed as an example of plain and clear statutory language. I would therefore deprecate any attempt to add any embellishment or gloss to the statutory wording unless to do so is plainly necessary. [...]
 
 ## Guidance documents
 * [Manual on Plain Language Drafting (Vidhi, March 2017)](https://vidhilegalpolicy.in/research/manual-on-plain-language-drafting/)
@@ -32,5 +35,3 @@ Programmers and drafters alike must resist the tendency to start typing immediat
 * [Drafting hall of shame: a mistake in the Reserve Bank of India Act, 1934 (The Leap Blog, 30 March 2017)](https://blog.theleapjournal.org/2017/03/drafting-hall-of-shame-mistake-in.html)
 * [Drafting hall of shame #2: mistakes in the IBC (The Leap Blog, 18 November 2016)](https://blog.theleapjournal.org/2016/11/drafting-hall-of-shame-2-mistakes-in.html)
 * [The democratic deficit in regulation making (Business Standard, 19 November 2018)](https://www.mayin.org/ajayshah/MEDIA/2018/democratic_deficit.html)
-  
-_This page is a work in progress._
