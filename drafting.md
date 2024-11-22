@@ -16,7 +16,7 @@ When you find the correct abstractions, things fall into place. When you have th
 >
 > When your abstractions are successful, that means that your judges are reasoning about the abstractions, not principally about the case before them. When they fail, courts (where professional judges apply laws) devolve into durbars (where the sovereign dispenses justice).
 
-As a drafter, your task is to find the correct abstractions, construct the correct ontology, and then execute on the mundane and rigorous work of converting that ontology into a text.
+As a drafter, your task is to find the correct abstractions, construct the correct ontology, and then execute on the mundane and rigorous work of converting that ontology into a text. If the drafting process fails, you will rightfully earn your place in the drafting [hall](https://blog.theleapjournal.org/2017/03/drafting-hall-of-shame-mistake-in.html) of [shame](https://blog.theleapjournal.org/2016/11/drafting-hall-of-shame-2-mistakes-in.html).
 
 ## Examples of good drafting
 * The [Draft Indian Financial Code](https://dea.gov.in/sites/default/files/Revised_Draft_IFC.pdf) is exceptional. More detail and context can be found in the [FSLRC Report](https://dea.gov.in/sites/default/files/fslrc_report_vol1_1.pdf). 
@@ -30,8 +30,4 @@ As a drafter, your task is to find the correct abstractions, construct the corre
 * [Common Legislative Solutions (UK Cabinet Office, May 2022)](https://www.gov.uk/government/publications/common-legislative-solutions-a-guide-to-tackling-recurring-policy-issues-in-legislation/common-legislative-solutions-a-guide-to-tackling-recurring-policy-issues-in-legislation)
 
 ## Further reading
-* [Drafting better laws (The Leap Blog, 13 October 2015)](https://blog.theleapjournal.org/2015/10/drafting-better-laws.html)
-* [Process design in drafting laws (The Leap Blog, 27 June 2014)](https://blog.theleapjournal.org/2014/06/process-design-for-drafting-laws.html)
-* [Drafting hall of shame: a mistake in the Reserve Bank of India Act, 1934 (The Leap Blog, 30 March 2017)](https://blog.theleapjournal.org/2017/03/drafting-hall-of-shame-mistake-in.html)
-* [Drafting hall of shame #2: mistakes in the IBC (The Leap Blog, 18 November 2016)](https://blog.theleapjournal.org/2016/11/drafting-hall-of-shame-2-mistakes-in.html)
-* [The democratic deficit in regulation making (Business Standard, 19 November 2018)](https://www.mayin.org/ajayshah/MEDIA/2018/democratic_deficit.html)
+The Leap Journal has great posts ([here](https://blog.theleapjournal.org/2015/10/drafting-better-laws.html), [here](https://blog.theleapjournal.org/2014/06/process-design-for-drafting-laws.html)) on the drafting process that rhyme with how I feel about the experience.
