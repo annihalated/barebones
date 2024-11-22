@@ -12,5 +12,3 @@ I publish my LaTeX [starter templates](https://github.com/annihalated/latex-star
 
 ## Further reading
 - [The elements of typesetting style](https://www.mayin.org/ajayshah/MISC/typesetting-etiquette.html)
-
-_This page is a work in progress._
