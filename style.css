@@ -2,7 +2,7 @@
 
 body {
   font-family: "Source Serif 4", Georgia, system-ui, -apple-system, BlinkMacSystemFont, Helvetica, sans-serif;
-  max-width: 600px;
+  max-width: 570px;
   min-width: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: antialiased;
@@ -100,4 +100,9 @@ hr {
 hr:after {
   content: "\2042";
   font-size: 1em;
+}
+
+footer p {
+  text-align: right;
+  font-size: 0.8rem;
 }
