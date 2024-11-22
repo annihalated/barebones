@@ -2,11 +2,9 @@
 layout: base
 title: Nihal Sahu
 ---
-[Email](mailto:nihal.sahu@vidhilegalpolicy.in) [Twitter](https://x.com/annihalated) [Newsletter](https://nihalsahu.substack.com)
+[Email](mailto:nihal.sahu@vidhilegalpolicy.in) [Twitter](https://x.com/annihalated) [Newsletter](https://nihalsahu.substack.com) [Colophon](/colophon)
 
-I'm a Research Fellow at the [Vidhi Centre for Legal Policy](https://vidhilegalpolicy.in) in the Health Team. I work on making healthcare regulation more effective and reforming the legal framework for organ transplants.
-
-You can read our research [here](https://vidhilegalpolicy.in/topics/health/?custom_type=research&featured=9).
+I'm a Research Fellow at the [Vidhi Centre for Legal Policy](https://vidhilegalpolicy.in). I work on making the legal system more effective. I'm particularly interested in the design of high-performance organisations.
 
 ## Research
 
@@ -36,3 +34,4 @@ You can read our research [here](https://vidhilegalpolicy.in/topics/health/?cust
 
 * [Drafting](/drafting)
 * [Typesetting](/typesetting)
+
