@@ -22,10 +22,10 @@ As a drafter, your task is to find the correct abstractions, construct the corre
 * The UK's [Mental Capacity Act 2005](https://www.legislation.gov.uk/ukpga/2005/9) is an example of good, clear drafting. You don't have to take just my word for it. In [*PC and NC v City of York Council*](https://www.bailii.org/ew/cases/EWCA/Civ/2013/478.html), McFarlane LJ said:
 > 37\. The central provisions of the MCA 2005 have been widely welcomed as an example of plain and clear statutory language. I would therefore deprecate any attempt to add any embellishment or gloss to the statutory wording unless to do so is plainly necessary. [...]
 
-## Guidance documents
-* [Manual on Plain Language Drafting (Vidhi, March 2017)](https://vidhilegalpolicy.in/research/manual-on-plain-language-drafting/)
-* [SARAL Manual (Vidhi, March 2023)](https://vidhilegalpolicy.in/wp-content/uploads/2023/03/230301_The-SARAL-Manual_v3.pdf)
-* [Common Legislative Solutions (UK Cabinet Office, May 2022)](https://www.gov.uk/government/publications/common-legislative-solutions-a-guide-to-tackling-recurring-policy-issues-in-legislation/common-legislative-solutions-a-guide-to-tackling-recurring-policy-issues-in-legislation)
-
 ## Further reading
+[Vidhi](https://vidhilegalpolicy.in) has published a [plain language drafting manual (2017)](https://vidhilegalpolicy.in/research/manual-on-plain-language-drafting/) and an [updated SARAL manual (2023)](https://vidhilegalpolicy.in/wp-content/uploads/2023/03/230301_The-SARAL-Manual_v3.pdf). They are both excellent India-centric resources for plain language drafting.
+
 The Leap Journal has great posts ([here](https://blog.theleapjournal.org/2015/10/drafting-better-laws.html), [here](https://blog.theleapjournal.org/2014/06/process-design-for-drafting-laws.html)) on the drafting process that rhyme with how I feel about the experience.
+
+*See* [Common Legislative Solutions (UK Cabinet Office, May 2022)](https://www.gov.uk/government/publications/common-legislative-solutions-a-guide-to-tackling-recurring-policy-issues-in-legislation/common-legislative-solutions-a-guide-to-tackling-recurring-policy-issues-in-legislation)
+
