@@ -10,8 +10,6 @@
   <a href="/">Return to homepage</a>
   <h1>{{ title }}</h1>
   {{ content | safe }}
-  <footer>
-    <p>Made with <a href="https://www.11ty.dev">Eleventy</a>. Hosted on <a href="https://netlify.com">Netlify</a>.</p>
-  </footer>
+  {% include "./partials/footer.njk" %}
 </body>
 </html>
