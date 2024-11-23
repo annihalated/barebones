@@ -57,7 +57,7 @@ Now, "picking the right people" as a solution understates the problem of finding
 
 I know this from constitutional theory, which I understand much better than economics. Adam quotes Dune to say that "[g]ood governance never depends upon laws, but upon the personal qualities of those who govern." This is correct. Except that the [major developments in constitutional theory](https://nihalsahu.substack.com/p/authority) over the last few centuries have been about discovering that it is *impossible* for any system of government to reliably pick the "right leaders". As I wrote [a week or two ago](https://nihalsahu.substack.com/p/authority):
 
-> In 1787, the Americans [...] had a more structural, a more sophisticated theory of the human desire for power, of ego and ambition. They created three strong branches of government which tended naturally to conflict among themselves, but gave each of them "the necessary constitutional means and personal motives to resist encroachments of the others"[ (Federalist No. 51)](https://avalon.law.yale.edu/18th_century/fed51.asp). They made the "provision for defense" commensurate to the "danger of attack." They desired that "[t]he interest of the man . . . be connected with the constitutional rights of the place.
+> In 1787, the Americans [...] had a more structural, a more sophisticated theory of the human desire for power, of ego and ambition. They created three strong branches of government which tended naturally to conflict among themselves, but gave each of them "the necessary constitutional means and personal motives to resist encroachments of the others" [(Federalist No. 51)](https://avalon.law.yale.edu/18th_century/fed51.asp). They made the "provision for defense" commensurate to the "danger of attack." They desired that "[t]he interest of the man . . . be connected with the constitutional rights of the place.
 
 In other words, they used incentives and systems thinking! The last line about the "interests of the man" being connected with the "constitutional rights of the place" are literally about incentive compatibility. 
 
@@ -71,7 +71,7 @@ Adam's people are devoted already, which means that, for some purposes, they lea
 
 Incentives have a role in getting a lot of people from "has interest in medicine because watches House MD" to "heart surgeon". A passing interest does not survive gruelling years of medical school or an aversion to cutting open human beings. This is where I cue in [Patrick McKenzie](https://x.com/patio11/status/1745337977591501009):
 
-![image of tweets from patrick mckenzie: https://x.com/patio11/status/1745337977591501009](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa1c85d0-fa5d-4d5a-8a27-2258ba85d1aa_1178x1178.png)
+<img alt="image of tweets from patrick mckenzie: https://x.com/patio11/status/1745337977591501009" class="invert" src="/assets/img/patio.png" />
 
 Are "interests" and "shared goals" enough to make someone stay in medical school? Is it enough to make them want to live in India's most deprived villages, where their patients are?
 
