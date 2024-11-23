@@ -27,7 +27,3 @@ I'm a Research Fellow at the [Vidhi Centre for Legal Policy](https://vidhilegalp
 * [Dotfiles](https://github.com/annihalated/dotfiles)
 * [A toy VCS](https://github.com/annihalated/gcm)
 
-## Essays
-* [Drafting](/drafting)
-* [Typesetting](/typesetting)
-
