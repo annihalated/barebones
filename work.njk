@@ -1,0 +1,26 @@
+---
+layout: page
+title: Work
+---
+
+<h2 id="research">Research</h2>
+<p>
+{%- for item in research -%}
+  <a href="{{ item.url }}">{{ item.title }}</a> {% if not loop.last %} •&nbsp; {% endif %}
+{%- endfor -%}
+</p>
+
+<h2 id="media">Media</h2>
+<p>
+{%- for item in media -%}
+  <a href="{{ item.url }}">{{ item.title }}</a> {% if not loop.last %} •&nbsp; {% endif %}
+{%- endfor -%}
+</p>
+
+<h2 id="repositories">Software</h2>
+<p>
+{%- for item in repositories -%}
+  <a href="{{ item.url }}">{{ item.title }}</a> {% if not loop.last %} •&nbsp; {% endif %}
+{%- endfor -%}
+</p>
+
