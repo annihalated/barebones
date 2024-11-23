@@ -50,6 +50,9 @@ figcaption {
 ol {
   list-style: decimal;
 }
+ul {
+  list-style: disc;
+}
 ol, ul {
   padding: 0;
   margin-left: 1.5em;
