@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Typesetting
+permalink: /typesetting/
 ---
 
 I publish my LaTeX [starter templates](https://github.com/annihalated/latex-starter) on Github. 

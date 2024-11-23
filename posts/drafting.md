@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Drafting
+permalink: /drafting/
 ---
 Legislative drafting, like contract drafting or software engineering, is fundamentally a problem of constructing the correct [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)).
 
