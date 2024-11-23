@@ -38,6 +38,20 @@ figcaption {
   font-size: 15px;
 }
 
+.footnotes {
+  font-size: smaller;
+}
+
+.footnotes p, .footnotes li {
+  line-height: 140%;
+}
+ol {
+  list-style: decimal;
+}
+ol, ul {
+  padding: 0;
+  margin-left: 1.5em;
+}
 @media screen and (max-width: 768px) {
   body {
     font-size: 15px;
@@ -49,8 +63,10 @@ p {
 /* Heading Sizes */
 
 #site-title {
-  font-size: 1.4em;
+  font-size: 1.8em;
+  margin-bottom: 7px;
 }
+
 
 h1 {
   font-size: 2.4em;
@@ -60,7 +76,16 @@ h1 {
 h2 {
   font-size: 1.4em;
   font-weight: 700;
-  margin: 15px 0 10px;
+  margin: 15px 0 0px;
+}
+
+h3 {
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  font-size: .9em;
+  font-weight: 700;
+  margin: 17px 0 10px;
+  line-height: 1.4;
 }
 
 h1, h2, h3 {

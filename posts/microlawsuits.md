@@ -1,6 +1,6 @@
 ---
 title: Microlawsuits
-description: the lower limit on dispute resolution time
+description: "the lower limit on dispute resolution time • ai judges • slowness as legitimacy • dworkin's dream"
 permalink: /microlawsuits/
 ---
 <figure>
@@ -18,7 +18,7 @@ This is not incredibly far off, because we already have instant resolution in lo
 
 But you wouldn't use that process for anything important. Imagine a lawsuit, decided in seconds, about the [boundaries of Sudan](https://en.wikipedia.org/wiki/Abyei#Arbitration_by_a_panel_under_the_Permanent_Court_of_Arbitration). The problem with this is not that people do not *believe* it is possible to interpret the boundaries correctly in seconds. The problem is that an incredibly fast resolution one way or another would seem like an illegitimate *process* tothe litigants. Resolution in a few months with a lot of agonising about the difficulty of the decision? Great. Resolution in a second? You have succeeded in producing a decision, but utterly failed at resolving the dispute -- your litigants are raising their armies even as your AI judge's HAL 9000 voice reads the judgment. 
 
-Courts are a branch of government, and so need legitimacy and authority to perform their functions. Even supremely efficient governments may lose the mandate of heaven. In *[Tiers](https://openyls.law.yale.edu/handle/20.500.13051/5336)*[(1984)](https://openyls.law.yale.edu/handle/20.500.13051/5336), Judith Resnik offers the example of a trial judge in New York who decided whether to sentence a defendant to 20 days or 30 days based on a coin flip. There was massive outrage and the judge was censured. Resnik asks: 
+Courts are a branch of government, and so need legitimacy and authority to perform their functions. Even supremely efficient governments may lose the mandate of heaven. In [*Tiers (1984)*](https://openyls.law.yale.edu/handle/20.500.13051/5336), Judith Resnik offers the example of a trial judge in New York who decided whether to sentence a defendant to 20 days or 30 days based on a coin flip. There was massive outrage and the judge was censured. Resnik asks: 
 
 > What was so offensive? The coin flip produced an outcome, inexpensively and quickly. Moreover, the judge's critics did not claim that the decision itself incorrectly reflected either law or fact, or that the time ultimately to be served by the defendant was unjustly long or short.
 >
@@ -32,10 +32,15 @@ To summarise, until you invent AI judges, your binding constraint is judicial ou
 
 You need to now construct the authority of the AI judge. Aiming for AI judges who instantaneously provide decisions on par with the best human judges is a good start, but it's ultimately unsatisfying. I recommend massive overambition. The quality of our legal decisions is presently affected by political and socioeconomic considerations; and also limited by our status as slightly-advanced chimps. 
 
-Instead, we should demand *perfection* from the AI judge. I am kidding, but only a little bit? In *[Taking Rights Seriously](https://en.wikipedia.org/wiki/Taking_Rights_Seriously)*[(1977)](https://en.wikipedia.org/wiki/Taking_Rights_Seriously), Ronald Dworkin invents a judge, *Hercules*, of "superhuman skill, learning, patience and acumen" who was capable of an internally coherent, logical understanding of the legal system.[^4] Posed with a legal dispute, he would construct an internally consistent theory of the state, of government, of law, and produce a decision that was consistent with that theory:[^5] 
+Instead, we should demand *perfection* from the AI judge. I am kidding, but only a little bit? In [*Taking Rights Seriously (1977)*](https://en.wikipedia.org/wiki/Taking_Rights_Seriously), Ronald Dworkin invents a judge, *Hercules*, of "superhuman skill, learning, patience and acumen" who was capable of an internally coherent, logical understanding of the legal system.[^4] Posed with a legal dispute, he would construct an internally consistent theory of the state, of government, of law, and produce a decision that was consistent with that theory:[^5] 
 
 > You will now see why I called our judge Hercules. He must construct a scheme of abstract and concrete principles that provides a coherent justification for all common law precedents and, so far as these are to be justified on principle, constitutional and statutory provisions as well.
 
 We might not accept an instantaneous decision from a machine if it were only a judge. But perhaps we might accept it from a machine that was the common law itself. As for me, I would tell Hercules to pretend to take at least a week on the case anyway, and hire a (human) PR consultant. And bodyguards. You know, just in case.
 
-[^1]: What
+[^1]: See Dutta et al. [(2019)](https://www.nipfp.org.in/media/medialibrary/2019/03/WP_2019_258.pdf).
+[^2]: This would involve some structural changes to the legal system. Every person, when confronted with the sense that they have been wronged, runs a mental process that predicts whether they will actually get relief in courts. Everyone has a lawsuit inside them, and in most cases, that is exactly where it should remain. But imagine if they could just “Hey Siri” a lawsuit and get instant resolution. Presumably Siri could still tell you, in milliseconds, that your instant lawsuit was thrown out because you don’t meet some procedural requirement – but couldn’t a lawyer have told you that anyway? But why would you ask the AI lawyer when the AI judge would tell you the answer instantaneously anyway? 
+[^3]: See Granet, ‘On sending the prisoner down’ ([2023](https://www.legalstyle.co.uk/2023/03/on-sending-prisoner-down.html)).
+[^4]: I was unsurprised but nonetheless slightly disappointed to find out I wasn't the first one to have thought about this. *See*, for e.g., Davis ([2018](https://scholarlycommons.law.cwsl.edu/cgi/viewcontent.cgi?article=1666&context=cwlr)), Goldsworthy ([2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3774717)), or Wang ([2023](https://www.scirp.org/pdf/blr_2023121115461225.pdf)). *See also* Guerra-Pujol ([2015](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2548166)).
+[^5]:I am, of course, simplifying here.
+
