@@ -1,7 +1,7 @@
 ---
 title: Against Searching for Saints
 permalink: /saints/
-description: "In defense of paying people to do things • Incentives solve principal-agent problems • Motivated agents exist but are unevenly distributed and hard to identify"
+description: "in defense of paying people to do things • incentives solve principal-agent problems • motivated agents exist but are unevenly distributed and hard to identify"
 ---
 
 Adam Mastroianni [argues](https://www.experimental-history.com/p/startling-differences-between-humans) that we are using incentives poorly. His case has two parts.
@@ -35,7 +35,7 @@ Let's get back to Adam's case. It skips the principal-agent problem, because Ada
 ### 1) They are not evenly distributed
 
 <figure>
-<img src="/assets/img/normal.png" />
+<img class="invert" src="/assets/img/normal.png" />
 <figcaption>A normal distribution.</figcaption>
 </figure>
 

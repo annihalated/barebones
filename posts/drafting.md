@@ -1,7 +1,7 @@
 ---
 title: Drafting 
 permalink: /drafting/
-description: "Similarities between law and code • Structural issues in the drafting process • Finding abstractions and constructing ontologies • Plain language drafting • Examples of great drafting"
+description: "similarities between law and code • structural issues in the drafting process • finding abstractions and constructing ontologies • plain language drafting • examples of great drafting"
 ---
 Legislative drafting, like contract drafting or software engineering, is fundamentally a problem of constructing the correct [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)).
 

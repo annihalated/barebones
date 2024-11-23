@@ -39,24 +39,29 @@ figcaption {
     font-size: 15px;
   }
 }
+p { 
+  margin: 10px 0;
+}
+/* Heading Sizes */
 
+#site-title {
+  font-size: 1.4em;
+}
 
 h1 {
   font-size: 2.4em;
 }
 
-#site-title {
-  font-size: 1.4em;
-}
+
 h2 {
   font-size: 1.4em;
-  margin-top: 1.7em;
-  margin-bottom: 0.5em;
+  font-weight: 700;
+  margin: 15px 0 10px;
+  line-height: 1.5;
 }
 
 h1, h2, h3 {
   font-family: Helvetica, Arial, sans-serif; 
-  line-height: 2.5rem;
 }
 
 ul, li {
@@ -147,5 +152,10 @@ footer p {
     border-bottom: 1px dotted #bbb;
     margin-bottom: -2px;
   }
+
+  img.invert {
+    filter: invert(80%);
+  }
+
 
 }
