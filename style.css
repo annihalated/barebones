@@ -103,7 +103,9 @@ a, a:visited {
   border-bottom: 1px dotted #222;
   margin-bottom: -1px;
 }
-
+#home p {
+  margin-top: 5px;
+}
 #home a, #home a:visited {
   color: #222222;
 }

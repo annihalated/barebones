@@ -1,6 +1,6 @@
 ---
 title: The Second Best is a Formal Order
-description: "Notes on the death of Elizabeth II"
+description: "Notes on the death of Elizabeth II."
 permalink: /regina/
 ---
 
