@@ -87,4 +87,4 @@ This might seem a little unfair. Why are we handing out carrots to the people fo
 
 We are not interested in 'rewarding only the truly deserving' or creating Valhalla. We are interested in creating good outcomes. May we always be clear-eyed enough to tell the difference. 
 
-<small>*Thanks to [Pranav Agarwal](https://x.com/AgroPrawn) for his detailed comments and contributed paragraphs which improved this essay considerably. Thank you and my apologies to [@joodalooped](https://x.com/joodalooped), who sent me Adam's piece two months ago, suggested I write a response "in a couple of hours", and helped me to finally get this out.*</small>
+<small>*Thanks to [Pranav Agarwal](https://x.com/AgroPrawn) for his detailed comments and contributed paragraphs which improved this essay considerably. My thanks and apologies to [Judah](https://x.com/joodalooped), who sent me Adam's piece two months ago, suggested I write a response "in a couple of hours", and helped me to finally get this out.*</small>
