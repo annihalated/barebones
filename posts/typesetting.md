@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Typesetting
 permalink: /typesetting/
 ---
