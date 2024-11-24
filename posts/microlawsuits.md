@@ -1,5 +1,6 @@
 ---
 title: Microlawsuits
+date: 2024-08-22
 description: "the lower limit on dispute resolution time • ai judges • slowness as legitimacy • dworkin's dream"
 permalink: /microlawsuits/
 ---

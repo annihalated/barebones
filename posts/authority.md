@@ -1,5 +1,6 @@
 ---
 title: Authority
+date: 2024-05-06
 permalink: /authority/
 description: "the development of modern states • statecraft has a technology tree • parliamentary democracy • separation of powers • rule of law"
 ---

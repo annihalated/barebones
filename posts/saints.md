@@ -1,5 +1,6 @@
 ---
 title: Against Searching for Saints
+date: 2024-07-15
 permalink: /saints/
 description: "in defense of paying people to do things • incentives solve principal-agent problems • motivated agents exist but are unevenly distributed and hard to identify"
 ---

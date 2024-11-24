@@ -1,5 +1,6 @@
 ---
 title: I Have a Favourite Band
+date: 2023-02-20
 permalink: /rks/
 description: "literary earworms • finding identity • developing taste • rainbow kitten surprise • self-loathing"
 ---
