@@ -5,10 +5,9 @@ date: 2022-06-12
 description: "book review • the causes of low government spending • weak state capacity"
 ---
 
-<iframe src="https://ourworldindata.org/grapher/public-health-expenditure-share-gdp?time=1920..latest&country=IND~CHN&tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
-
-Introduction
-------------
+<figure>
+<img src="/assets/img/ghs.png" class="invert" />
+</figure>
 
 This is a strange graph. Usually, governments spend more on healthcare as they become richer. Between 2000-2018, India's GDP grew from $468 billion to $2.7 trillion. In the same period, Chinese Government Health Spending (GHS) grew from one percent to nearly three percent of GDP. In India, however, GHS stagnates at around one percent. Relative to GDP, India has one of the [lowest public health budgets in the world](https://timesofindia.indiatimes.com/india/indias-health-budget-fourth-lowest-in-world-oxfam/articleshow/78597933.cms).
 
