@@ -1,6 +1,6 @@
 ---
 title: The Second Best is a Formal Order
-description: "Notes on the death of Elizabeth II."
+description: "notes on the death of Elizabeth II • legal realism • rule of law in India • the English roots of constitutional traditions"
 permalink: /regina/
 ---
 
