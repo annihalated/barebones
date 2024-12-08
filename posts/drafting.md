@@ -3,7 +3,7 @@ title: Abstractions and Drafting
 permalink: /drafting/
 description: "similarities between law and code • structural issues in the drafting process • finding abstractions and constructing ontologies • plain language drafting • examples of great drafting"
 ---
-*This page is a work in progress. It is a 'growing' document and will expand as I collect ideas, links, and notes*
+*This page is a work in progress. It is a 'growing' document and will expand as I collect ideas, links, and notes.*
 
 > When you are writing laws you are testing words to find their utmost power. Like spells, they have to make things happen in the real world, and like spells, they only work if people believe in them. 
 <small><p style="text-align:right; padding-right: 2em;">Hilary Mantel, Wolf Hall</p></small>
