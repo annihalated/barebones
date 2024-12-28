@@ -19,7 +19,14 @@ When you find the correct abstractions, things fall into place. When you have th
 >
 > When your abstractions are successful, that means that your judges are reasoning about the abstractions, not principally about the case before them. When they fail, courts (where professional judges apply laws) devolve into durbars (where the sovereign dispenses justice).
 
-As a drafter, your task is to find the correct abstractions, construct the correct ontology, and then execute on the mundane and rigorous work of converting that ontology into a text. If the drafting process fails, you will rightfully earn your place in the drafting [hall](https://blog.theleapjournal.org/2017/03/drafting-hall-of-shame-mistake-in.html) of [shame](https://blog.theleapjournal.org/2016/11/drafting-hall-of-shame-2-mistakes-in.html).
+As a drafter, your task is to find the correct abstractions, construct the correct ontology, and then execute on the mundane and rigorous work of converting that ontology into a text. 
+
+## Connections
+> Laws, like houses, lean on one another. 
+
+<small><p style="text-align:right; padding-right: 2em;">Edmund Burke</p></small>
+
+If the drafting process fails, you will rightfully earn your place in the drafting [hall](https://blog.theleapjournal.org/2017/03/drafting-hall-of-shame-mistake-in.html) of [shame](https://blog.theleapjournal.org/2016/11/drafting-hall-of-shame-2-mistakes-in.html).
 
 ## Examples of plain language drafting
 * The [Draft Indian Financial Code](https://dea.gov.in/sites/default/files/Revised_Draft_IFC.pdf) is exceptional but was sometimes too much of a departure from traditional drafting. More detail and context can be found in the [FSLRC Report](https://dea.gov.in/sites/default/files/fslrc_report_vol1_1.pdf). 
